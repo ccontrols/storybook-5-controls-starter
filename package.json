@@ -12,5 +12,9 @@
     "@storybook/react": "^5.3.18",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/atanasster/storybook-5-controls-starter.git"
   }
 }
