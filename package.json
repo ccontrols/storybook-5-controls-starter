@@ -1,0 +1,16 @@
+{
+  "name": "storybook-5-controls-starter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "start-storybook -c .storybook",
+    "build": "build-storybook -c .storybook"
+  },
+  "dependencies": {
+    "@component-controls/storybook": "^1.11.2",
+    "@storybook/react": "^5.3.18",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
